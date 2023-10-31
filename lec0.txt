@@ -1,0 +1,18 @@
+1. What is the web development and what are types of it?
+
+Web development is the process of creating and maintaining websites and web applications. It encompasses all aspects of the website creation process, from designing the user interface to writing the code that powers the website.
+There are three main types of web development:
+Front-end web development: Front-end web development is responsible for the look and feel of a website. Front-end developers use programming languages like HTML, CSS, and JavaScript to create the user interface and make sure that the website is responsive and user-friendly.
+Back-end web development: Back-end web development is responsible for the server-side logic that powers a website. Back-end developers use programming languages like Python, Java, and PHP to write the code that handles database interactions, user authentication, and other behind-the-scenes tasks.
+Full-stack web development: Full-stack web development is a combination of front-end and back-end web development. Full-stack developers have the skills and knowledge to work on all aspects of a website, from the user interface to the server-side logic.
+
+2. What is difference between web developers and web designers?
+
+Web designers and web developers are both involved in the creation and maintenance of websites, but their roles and responsibilities are different.
+Web designers are responsible for the look and feel of a website. They create the visual elements of the website, such as the layout, typography, and color scheme. Web designers also need to consider the user experience (UX) and make sure that the website is easy to navigate and use.
+Web developers are responsible for building and maintaining the core structure of a website. They write the code that makes the website work, such as the code that handles user interactions, database interactions, and server-side logic. Web developers also need to have a good understanding of security and performance optimization.
+In some cases, web designers and web developers may be the same person. However, in larger companies or organizations, these roles are typically separate.
+
+3. Is the best for web developer to be full stack development or just one type of development?
+
+full stack development Is the best
